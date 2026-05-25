@@ -1,4 +1,4 @@
-# Idea Formation: Top-Down Analysis
+# Blink Health AI Pharmacy Operations Strategy
 
 ## 1. The one true goal
 
