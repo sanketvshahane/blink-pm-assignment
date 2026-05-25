@@ -306,4 +306,5 @@ Choosing to buy over build cuts our development timeline by at least six months 
 * **Horizontal Operational Mapping:** Creating a clean, aligned horizontal solution matrix to map our seven AI initiatives directly to their respective process steps.
 
 ### What Surprised Me & A-ha Moments
-* **Honestly, nothing.** I have looked at healthcare very deeply and use the AI tools every single day. The technology behaves exactly as anticipated when applied to well-structured operational problems.
+* **What surprised me:** How easy it is to lose track of awesome ideas that pop up in your head while multitasking. I started using pen and paper to note thought themes and topics before they get lost, and then use AI to expand on them.
+* **A-ha moments:** Honestly, nothing. I have looked at healthcare very deeply and use the AI tools every single day. The technology behaves exactly as anticipated when applied to well-structured operational problems.
